@@ -1,5 +1,5 @@
 
-![ESP32 hardware wallet](https://i.imgur.com/Mt2Ey7y.png)
+![ESP32 hardware wallet](https://i.imgur.com/mHWfrtc.png)
 # Koopa - a cheap DIY watch-only bitcoin hardware wallet with epaper (only $15!)
 
 *This is an untested truley reckless hardware wallet, we take no responsiblity for loss of funds!*
